@@ -1,6 +1,7 @@
 # Hola, Soy Héctor! 👋
 
-===
+---
+
 Ingeniero Electrónico
 Desarrollador FullStack en proceso ...
 
@@ -14,5 +15,3 @@ Habilidades 🛠️
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-
-![Gracias](Agregar un título.gif)
