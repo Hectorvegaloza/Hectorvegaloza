@@ -1,4 +1,4 @@
-# Hola, Soy Héctor! 👋
+## Hola, Soy Héctor! 👋
 
 ---
 
