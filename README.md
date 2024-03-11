@@ -1,8 +1,7 @@
 ## Hola, Soy Héctor! 👋
 
----
-
 Ingeniero Electrónico
+
 Desarrollador FullStack en proceso ...
 
 Habilidades 🛠️
@@ -16,4 +15,4 @@ Habilidades 🛠️
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-![](https://github.com/Hectorvegaloza/Hectorvegaloza/blob/main/see.gif)
+![](https://github.com/Hectorvegaloza/Hectorvegaloza/blob/main/see1.gif)
