@@ -1,9 +1,10 @@
-### Hi there 👋
+# Hola, Soy Héctor! 👋
 
-<!--
-**Hectorvegaloza/Hectorvegaloza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+===
+Ingeniero Electrónico
+Desarrollador FullStack en proceso ...
 
-Here are some ideas to get you started:
+Habilidades 🛠️
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -13,4 +14,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
+![Gracias](Agregar un título.gif)
